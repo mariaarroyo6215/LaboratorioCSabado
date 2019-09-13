@@ -6,7 +6,7 @@
 /*
 *Autor: Maria Guadalupe Peña Arroyo
 *Fecha: 12/09/2019
-*Grupo:008
+*Grupo: 008
 *Horario: sabado 9-11am
 *Matricula: 1868704
 */
