@@ -42,13 +42,13 @@ int num, sum=0; /* declaracion de variables*/
 float n;
     do
     {
-    printf("\n\n Ingrese un numero: ");
+    printf("\n\n Ingrese un numero: ");  /* se pide un numero por teclado*/
     scanf("%f", &n);
-    printf("\n\t\t\t\t\ %.2f", n);
-    }while (n<100);
+    printf("\n\n\t\t\t\t %.2f", n);    /* se va imprimiendo conforme se van ingresando*/  
+    }while (n<100);     /* el ciclo va a continuar hasta que se ingrese un numero mayor a 100*/
 
     printf("\n\n\n\n\n\n\n");
 	system("pause");
-	system("cls");
+	system("cls");      /* se limpia pantalla */
 	return 0;
 }
